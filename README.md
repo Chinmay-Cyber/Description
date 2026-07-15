@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinmay Kothidar</h1>
 
 <h3 align="center">
-Computer Science Graduate | Machine Learning Engineer | Computer Vision Enthusiast
+Computer Science Graduate | Machine Learning Engineer | Computer Vision | Deep Learning | Data Science
 </h3>
 
 <p align="center">
