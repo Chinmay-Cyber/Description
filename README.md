@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anand Sharma</h1>
+<h1 align="center">Hi 👋, I'm Chinmay Kothidar</h1>
 
 <h3 align="center">
 Computer Science Graduate | Machine Learning Engineer | Computer Vision Enthusiast
