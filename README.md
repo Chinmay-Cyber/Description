@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinmay Kothidar</h1>
 
 <h3 align="center">
-Aspiring Machine Learning Engineer | Data Scientist | Computer Vision Engineer
+chinmaykothidar@gmail.com 
 </h3>
 
 <p align="center">
@@ -18,26 +18,6 @@ Passionate about building intelligent AI systems through Machine Learning, Deep 
 - 🚁 Developed and optimized a YOLO-based human detection pipeline for drone imagery in challenging environments
 - 📚 Currently exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Generative AI
 - 💡 I enjoy researching, building, and deploying AI solutions that solve real-world problems from scratch.
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-
-</p>
 
 ---
 
@@ -107,18 +87,6 @@ Python • YOLO • OpenCV • TensorFlow
 
 <a href="https://www.linkedin.com/in/chinmay-kothidar-50364924b/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:chinmaykothidar@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
 </a>
 
 </p>
