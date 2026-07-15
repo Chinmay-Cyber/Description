@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chinmay Kothidar</h1>
 
 <h3 align="center">
-Computer Science Graduate | Machine Learning Engineer | Computer Vision | Deep Learning | Data Science
+Aspiring Machine Learning Engineer | Data Scientist | Computer Vision Engineer
 </h3>
 
 <p align="center">
-Passionate about building AI solutions that solve real-world problems through Machine Learning, Deep Learning, Computer Vision, and Large Language Models.
+Passionate about building intelligent AI systems through Machine Learning, Deep Learning, Computer Vision, and Large Language Models.
 </p>
 
 ---
@@ -14,10 +14,10 @@ Passionate about building AI solutions that solve real-world problems through Ma
 
 - 🎓 Computer Science Graduate (2026)
 - 💼 Ex-Machine Learning Research Intern at **DRDO**
-- 🤖 Passionate about Machine Learning, Computer Vision, and Generative AI
-- 🛰️ Worked on YOLO-based drone imagery for human detection in challenging environments
-- 📚 Currently exploring LLMs, RAG Systems, and AI Applications
-- 💡 I enjoy transforming ideas into practical AI solutions from scratch.
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
+- 🚁 Developed and optimized a YOLO-based human detection pipeline for drone imagery in challenging environments
+- 📚 Currently exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Generative AI
+- 💡 I enjoy researching, building, and deploying AI solutions that solve real-world problems from scratch.
 
 ---
 
@@ -30,94 +30,74 @@ Passionate about building AI solutions that solve real-world problems through Ma
 <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 <img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
 <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 <img src="https://skillicons.dev/icons?i=linux" height="50"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
 
 </p>
 
 ---
 
-## 🤖 AI / ML Stack
+## 💻 Skills
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- YOLO
-- OpenCV
-- TensorFlow
-- Keras
-- PyTorch
-- Scikit-learn
-- XGBoost
-- NumPy
-- Pandas
-- Matplotlib
-- Plotly
-- LangChain
-- FAISS
-- Transformers
-- Faster Whisper
-- DeepFace
-- Retrieval-Augmented Generation (RAG)
+**Languages:**  
+Python • C/C++ • SQL
+
+**Machine Learning & Deep Learning:**  
+Supervised Learning • Deep Learning (CNNs) • Feature Engineering • Hyperparameter Tuning • Scikit-learn • XGBoost • TensorFlow • PyTorch
+
+**Computer Vision:**  
+YOLO • Object Detection • Image Classification • OpenCV • MediaPipe • DeepFace • Facial Emotion Recognition • Image Augmentation • mAP Evaluation
+
+**NLP & Generative AI:**  
+LLMs • Retrieval-Augmented Generation (RAG) • LangChain • Vector Databases (FAISS, ChromaDB) • Embedding Models • Semantic Search • Prompt Engineering • Hugging Face Transformers • FLAN-T5 • Faster Whisper
+
+**Backend & Deployment:**  
+FastAPI • REST APIs • Docker • Streamlit
+
+**Data & Tools:**  
+Pandas • NumPy • Matplotlib • Plotly • Data Cleaning • Exploratory Data Analysis (EDA) • Git • GitHub • Jupyter Notebook • Google Colab • Kaggle
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 AI Interview Analyzer
-An AI-powered interview evaluation platform that analyzes speech, facial emotions, eye contact, confidence, and transcript quality to generate detailed performance reports.
 
-**Tech Stack**
+A multimodal AI system that evaluates interview performance by analyzing speech, facial emotions, eye contact, and transcripts to generate detailed performance reports.
+
+**Tech Stack:**  
 Python • OpenCV • DeepFace • Faster Whisper • LangChain • FLAN-T5 • Plotly • ReportLab
 
 ---
 
+### 📄 AskMyPDF – RAG Chatbot
+
+An intelligent document assistant that enables users to ask natural language questions over PDF files using Retrieval-Augmented Generation (RAG).
+
+**Tech Stack:**  
+LangChain • FAISS • FastAPI • Groq • Transformers • Streamlit
+
+---
+
 ### 😊 Real-Time Facial Emotion Recognition
+
 Developed a real-time facial emotion recognition system using MobileNetV2 and OpenCV capable of recognizing seven human emotions from webcam input.
 
-**Tech Stack**
+**Tech Stack:**  
 TensorFlow • OpenCV • MobileNetV2 • FER-2013
 
 ---
 
-### 📄 AskMyPDF (RAG Chatbot)
-Built an intelligent PDF Question Answering system using Retrieval-Augmented Generation (RAG), allowing users to ask natural language questions over PDF documents.
-
-**Tech Stack**
-LangChain • FAISS • FastAPI • Groq • Transformers
-
----
-
 ### 🚁 Human Detection using Drone Imagery
-Developed and optimized a YOLO-based object detection pipeline for drone imagery, focusing on robust human detection under low-light conditions, motion blur, occlusion, and small-object scenarios.
 
-**Tech Stack**
-YOLO • OpenCV • Python • Deep Learning
+Developed and optimized a YOLO-based object detection pipeline for drone imagery, focusing on robust human detection under low-light conditions, motion blur, occlusion, and small-object scenarios through data augmentation and rigorous model evaluation.
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight"/>
-
-</p>
+**Tech Stack:**  
+Python • YOLO • OpenCV • TensorFlow
 
 ---
 
@@ -125,12 +105,20 @@ YOLO • OpenCV • Python • Deep Learning
 
 <p align="left">
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/chinmay-kothidar-50364924b/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+&nbsp;&nbsp;
+
+<a href="mailto:chinmaykothidar@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
 </a>
 
 </p>
@@ -139,4 +127,4 @@ YOLO • OpenCV • Python • Deep Learning
 
 ## 💭 Quote
 
-> *"Building intelligent systems that solve real-world problems through AI."*
+> *"Turning ideas into intelligent solutions through AI, one project at a time."*
